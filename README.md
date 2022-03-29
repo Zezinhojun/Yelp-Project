@@ -10,7 +10,8 @@ $ $ git clone -b Errors --single-branch https://github.com/Zezinhojun/Yelp-Proje
 $ cd Yelp-Project
 
 # Install dependencies
-$ npm install express mongoose ejs Joi methodOverride ejs-mate
+$ npm install express mongoose ejs Joi methodOverride ejs-mate](url)
 
 # Run the app
+$ mongod
 $ node app.js
