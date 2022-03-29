@@ -9,9 +9,17 @@ $ $ git clone -b Errors --single-branch https://github.com/Zezinhojun/Yelp-Proje
 # Go into the repository
 $ cd Yelp-Project
 
-# Install dependencies
-$ npm install express mongoose ejs Joi methodOverride ejs-mate](url)
 
-# Run the app
+Necessary 2 Git Bash or PowerShell or Cmd
+
+# in 1: Open Server mongodb
 $ mongod
+
+# in 2: Run the app
 $ node app.js
+
+# Open the browser in:
+
+http://localhost:3000/campgrounds
+
+# GG!
